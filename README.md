@@ -1,2 +1,3 @@
-# codingExercise
-Coding exercise
+- maven command - mvn clean install
+- The application is based on spring boot. Default config is used.
+- the endpoints would be available at localhost:8080/ 
